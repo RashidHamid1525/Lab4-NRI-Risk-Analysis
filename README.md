@@ -1,6 +1,5 @@
 # Lab4-NRI-Risk-Analysis
-
-# Evaluating Bias in FEMA’s National Risk Index: Iowa & Oklahoma Risk Analysis
+## Evaluating Bias in FEMA’s National Risk Index: Iowa & Oklahoma Risk Analysis
 
 ## Project Overview
 This project analyzes natural disaster risk in **Iowa and Oklahoma** using data from FEMA’s National Risk Index (NRI). The goal is to compare the official NRI risk calculation with a custom-defined risk metric to determine if any **categorical bias** exists in how risk is assessed.
@@ -71,14 +70,6 @@ This approach focuses on hazard probability and impact without including social 
 
 ---
 
-## Repository Structure
-/data # Raw and cleaned datasets
-/notebooks # Jupyter notebooks
-/code # Python scripts
-/docs # Reports, scope of work, annotated code
-
-
----
 
 ## Technologies Used
 - Python
