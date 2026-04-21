@@ -51,10 +51,10 @@ This approach focuses on hazard probability and impact without including social 
 ---
 
 ## Project Workflow
-1. Download NRI and SVI datasets
+1. Download NRI and SVI datasets (And NRI Census Tract shapfile which was sent in a teams message to Dr Lane)
 2. Clean and organize data for Iowa and Oklahoma
 3. Handle missing values
-4. Create a shared key (`STCNTY`) for merging datasets
+4. Create a shared key for merging datasets
 5. Merge datasets into one 
 6. Calculate custom risk values
 7. Generate summary tables and visualizations
